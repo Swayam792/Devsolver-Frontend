@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Instrument Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  
+  width: calc(100vw - 34px);
+  overflow-x: hidden;
+  ::-webkit-scrollbar{
+    display: none;
+  }
+}
+
+code {
+  font-family: 'Instrument Sans', sans-serif;
+}
+
+
+@media only screen and (max-width: 768px) {
+  body {
+    width: 100vw;
+    overflow-x: hidden;
+  }
+}

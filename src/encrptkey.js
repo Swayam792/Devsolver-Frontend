@@ -1,0 +1,3 @@
+const CRYPTO_KEY = "KHNDKNK83774KN2!NK3";
+
+export default CRYPTO_KEY;

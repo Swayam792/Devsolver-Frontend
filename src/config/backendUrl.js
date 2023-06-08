@@ -1,3 +1,3 @@
-const backendUrl = 'https://devsolver-backend-production.up.railway.app/'
+const backendUrl = 'https://devsolver-backend.onrender.com/'
 
 export default backendUrl;
